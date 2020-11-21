@@ -1,10 +1,10 @@
 # Módulo - Manipular e formatar dados de cadeia de caracteres para exibição em Python
 
 ## Aprendizados
-- Use caracteres de escape em cadeias literais para adicionar novas linhas e guias.
-- Use os recursos da função print() para formatar cadeias de caracteres para exibição.
-- Chame uma das muitas funções internas para remover espaços vazios, adicionar preenchimento e localizar e substituir subcadeias de caracteres.
-- Use a função format() para criar uma cadeia de caracteres de formato que contenha uma série de campos de substituição.
+- Usar caracteres de escape em cadeias literais para adicionar novas linhas e guias.
+- Usar os recursos da função print() para formatar cadeias de caracteres para exibição.
+- Chamar uma das muitas funções internas para remover espaços vazios, adicionar preenchimento e localizar e substituir subcadeias de caracteres.
+- Usar a função format() para criar uma cadeia de caracteres de formato que contenha uma série de campos de substituição.
 
 ## Desafio
 
